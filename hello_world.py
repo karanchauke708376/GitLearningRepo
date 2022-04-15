@@ -2,10 +2,11 @@
 print("Hello World")
 
 <<<<<<< HEAD
-print('In Dev Branch')
+print('In MAster Branch')
+print("Master Branch Process . .  .")
 =======
-print("Create A Dev Branch")
-print('Switch Dev Branch')
+print("Default A Master Branch")
+print('Switch Master Branch')
 >>>>>>> dev
 
-print("New Changed In Dev Branch")
+print("Default Changed In Master Branch")
